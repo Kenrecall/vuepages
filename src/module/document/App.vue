@@ -1,9 +1,7 @@
 <template>
   <div id="app">
-    <img src="./images/logo.png">
-    <div>详情内容</div>
+    <div>document</div>
     <div @click="goin">点击跳转主页</div>
-    <div class="co"></div>
   </div>
 </template>
 
